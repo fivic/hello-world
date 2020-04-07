@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+This is an edit of README file to see how things work around here, I'm actually just following a guide...
